@@ -1,6 +1,7 @@
 # MS Tech Summit Paris 2018
-Hi folks! If you are here you have found the magic link from QR Code :)
-Few Materials for your support:
+Hi folks! If you are here you have found the magic link from QR Code :)  
+
+Few Materials for your support:  
 MS Experience Presentations:  
 
 /!\ Attention the follwing videos in French  
