@@ -5,4 +5,10 @@ MS Experience Presentations:
 
 /!\ Attention the follwing videos in French  
 
+Teoretical part  
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/pniGc2oh-DI&t/0.jpg)](http://www.youtube.com/watch?v=pniGc2oh-DI&t)  
+
+Technical part  
+
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/larIepI69EE/0.jpg)](http://www.youtube.com/watch?v=larIepI69EE)
