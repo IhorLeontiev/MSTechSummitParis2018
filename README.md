@@ -7,7 +7,7 @@ MS Experience Presentations:
 
 Teoretical part  
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/https://www.youtube.com/watch?v=pniGc2oh-DI&t/0.jpg)](http://www.youtube.com/watch?v=pniGc2oh-DI&t)  
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/https://www.youtube.com/watch?v=pniGc2oh-DI/0.jpg)](http://www.youtube.com/watch?v=pniGc2oh-DI)  
 
 Technical part  
 
